@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/subsection/dtd/subsection.dtd"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:subsection.dtd"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/subsection/dtd/subsection.dtd"
+  />
+  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:modules:subsection"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/subsection/dtd/subsection.mod"
+  />
+  <system systemId="urn:pubid::modules:subsection.mod"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/subsection/dtd/subsection.mod"
+  />
+</catalog>  

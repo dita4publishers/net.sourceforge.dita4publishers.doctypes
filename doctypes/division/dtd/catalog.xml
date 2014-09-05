@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:division"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/division/dtd/division.dtd"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:division.dtd"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/division/dtd/division.dtd"
+  />
+  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:modules:division"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/division/dtd/division.mod"
+  />
+  <system systemId="urn:pubid::modules:division.mod"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/division/dtd/division.mod"
+  />
+  
+</catalog>  

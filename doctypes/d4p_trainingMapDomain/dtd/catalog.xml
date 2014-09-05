@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">
+  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:entities:dtd:trainingMapDomain"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/trainingMapDomain/dtd/trainingMapDomain.ent"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:entities:dtd:pubmap:trainingMapDomain.ent"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/trainingMapDomain/dtd/trainingMapDomain.ent"
+  />
+  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:modules:dtd:trainingMapDomain"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/trainingMapDomain/dtd/trainingMapDomain.mod"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:modules:dtd:pubmap:trainingMapDomain.mod"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/trainingMapDomain/dtd/trainingMapDomain.mod"
+  />
+  
+</catalog>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:d4p_bibbaseDomain"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/d4p_bibbaseDomain/dtd/d4p_bibbaseDomain.mod"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:d4p_bibbaseDomain.mod"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/d4p_bibbaseDomain/dtd/d4p_bibbaseDomain.mod"
+  />
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:d4p_bibbaseDomain:entities"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/d4p_bibbaseDomain/dtd/d4p_bibbaseDomain.ent"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:d4p_bibbaseDomain.ent"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/d4p_bibbaseDomain/dtd/d4p_bibbaseDomain.ent"
+  />
+</catalog>  

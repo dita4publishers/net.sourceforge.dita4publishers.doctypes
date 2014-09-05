@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">  
+
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:chapter"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/chapter/dtd/chapter.dtd"
+  />
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:chapter.dtd"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/chapter/dtd/chapter.dtd"
+  />
+  
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:modules:chapter"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/chapter/dtd/chapter.mod"
+  />
+  <system systemId="urn:pubid::modules:chapter.mod"
+    uri="../../../../org.dita4publishers.doctypes/doctypes/chapter/dtd/chapter.mod"
+  />
+  
+</catalog>  
