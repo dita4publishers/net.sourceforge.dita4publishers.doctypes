@@ -14,10 +14,10 @@
     uri="../../../../org.dita4publishers.doctypes/doctypes/d4p_mathDomain/dtd/d4p_mathDomain.ent"
   />
   
-  <public publicId="urn:urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:mathml3.dtd" 
-          uri="../../mathml3/dtd/mathml3.dtd"
+  <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:mathml3.dtd" 
+          uri="../../../../org.dita4publishers.doctypes/doctypes/mathml3/dtd/mathml3.dtd"
   />
-  <system systemId="urn:urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:mathml3.dtd" 
-          uri="../../mathml3/dtd/mathml3.dtd"
+  <system systemId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:mathml3.dtd" 
+          uri="../../../../org.dita4publishers.doctypes/doctypes/mathml3/dtd/mathml3.dtd"
   />
 </catalog>  
