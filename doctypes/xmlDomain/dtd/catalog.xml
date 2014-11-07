@@ -3,9 +3,9 @@
   prefer="public">
 
   <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:xml:entities"
-    uri="../../../../org.dita4publishers.doctypes/doctypes/xmlDomain/dtd/xmlDomain.ent"
+    uri="../../../../org.dita4publishers.xmldomain.doctypes/dtd/xmlDomain.ent"
   />
   <public publicId="urn:pubid:dita4publishers.sourceforge.net:doctypes:dita:modules:xml:declarations"
-    uri="../../../../org.dita4publishers.doctypes/doctypes/xmlDomain/dtd/xmlDomain.mod"
+    uri="../../../../org.dita4publishers.xmldomain.doctypes/dtd/xmlDomain.mod"
   />
 </catalog>
