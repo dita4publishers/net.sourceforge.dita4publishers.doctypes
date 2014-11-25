@@ -22,4 +22,7 @@
   -->
 <plugin id="net.sourceforge.dita4publishers.doctypes">
   <feature extension="dita.specialization.catalog.relative" value="catalog.xml" type="file"/>
+  <feature extension="package.support.name" value="Eliot Kimber"/>
+  <feature extension="package.support.email" value="ekimber@contrext.com"/>
+
 </plugin>
